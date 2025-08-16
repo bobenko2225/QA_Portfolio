@@ -39,11 +39,11 @@
 - *[ Написати приклади перевірок для кожного виду тестування для обраного сайту] (https://docs.google.com/document/d/1CXrJ7u6I1AcxUf4U9tg96pG-l--06OzkTAlk43HfZwI/edit?usp=sharing)
 - *[ Застосувати всі блек-бокс техніки до якоїсь фічі в обраному вами сайті] (https://docs.google.com/document/d/1fkRWD7xNCnFNR4UbROShG8uHxeLgemuVhkWYQP-TR5Q/edit?usp=sharing)
 - *[ Створити декілька багів у Jira] (https://docs.google.com/document/d/1dC-9JREDZ5I7YXKFYlxIwpZIB0A5qS3VRi7uHUdUh3M/edit?usp=sharing)
-- *[ написати тест кейси для тестування АПІ + протестувати на тестовому АПІ] (https://docs.google.com/document/d/1rsRfYm4Q7EuPX3NHsQ980dZp2N-5QKadXLfmo-1rJhU/edit?usp=sharing)
+- *[ написати тест кейси для тестування API + протестувати на тестовому API] (https://docs.google.com/document/d/1rsRfYm4Q7EuPX3NHsQ980dZp2N-5QKadXLfmo-1rJhU/edit?usp=sharing)
 - *[ протестувати веб додаток з інструментами + зарепортити баги Devtools Charles] (https://docs.google.com/document/d/1Q9MZXp6HeHpXpas3_aHOonwrkSdKJb7jVomOaYG9cnQ/edit?usp=sharing)
 - *[ -Клонувати проект з GitHub
--Cтворити гілку, зробити зміни, зробити коміт
--Зробити мерж реквест на гілку мастер] (https://docs.google.com/document/d/1-UpiOno_AatQXJq7TMbscr8xgWEnrROUUdIMcc_IexQ/edit?usp=sharing)
+,Cтворити гілку, зробити зміни, зробити коміт
+,Зробити мерж реквест на гілку мастер] (https://docs.google.com/document/d/1-UpiOno_AatQXJq7TMbscr8xgWEnrROUUdIMcc_IexQ/edit?usp=sharing)
 - *[ Automation Part 3: Pytest + API Testing] (https://docs.google.com/document/d/1yp2bSRQZThtJtmDrr8bPA3TfrAnecfaxJoCVzi0Gl1s/edit?usp=sharing)
 - *[ Автоматизація тестування веб-сторінок] (https://docs.google.com/document/d/1cFnQwnpJb_FnUxWnZJBDDqCBnmKjSmqKJYw13wWS_Nw/edit?usp=sharing)
 - *[ Performance Testing з JMeter] (https://docs.google.com/document/d/1AlJ6QVqypCPt3zFEWLFy_WaTZ5Gc-mspfGk6uUA3oD0/edit?usp=sharing)

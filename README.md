@@ -65,32 +65,27 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-📋 Тестування та баг-трекінг
-https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white
-https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=&logoColor=white
-https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
-https://img.shields.io/badge/Bugzilla-000000?style=for-the-badge&logo=&logoColor=white
 
-🖥 Веб-технології
-https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black
-https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/Charles_Proxy-8CC4D7?style=for-the-badge&logo=&logoColor=white
+![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-FF6C37?style=flat&logo=testrail&logoColor=white)
+![API Testing](https://img.shields.io/badge/-API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white)
+![Mobile Testing](https://img.shields.io/badge/-Mobile%20Testing-3DDC84?style=flat&logo=android&logoColor=white)
 
-💾 Бази даних
-https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/-TestRail-65C179?style=flat&logo=&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
-📱 Мобільне тестування
-https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
-https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white
-https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=&logoColor=white
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-🔄 Системи контролю версій
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+![DevTools](https://img.shields.io/badge/-DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white)
+![Charles Proxy](https://img.shields.io/badge/-Charles%20Proxy-8CC4D7?style=flat&logo=&logoColor=white)
+
+
+
 
 ## 📌 Контакти
 - **LinkedIn**: https://www.linkedin.com/in/nazar-kozar-2014b2375/ 

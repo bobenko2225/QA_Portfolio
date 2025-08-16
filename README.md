@@ -83,7 +83,28 @@
 
 ![DevTools](https://img.shields.io/badge/-DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white)
 ![Charles Proxy](https://img.shields.io/badge/-Charles%20Proxy-8CC4D7?style=flat&logo=&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-FF6C37?style=for-the-badge&logo=testrail&logoColor=white)
+![API Testing](https://img.shields.io/badge/-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Performance Testing](https://img.shields.io/badge/-Performance%20Testing-000000?style=for-the-badge&logo=jmeter&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![TestRail](https://img.shields.io/badge/-TestRail-65C179?style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitBash](https://img.shields.io/badge/-Git%20Bash-4EAA25?style=for-the-badge&logo=git&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+![Bug Report](https://img.shields.io/badge/-Bug%20Reports-FF0000?style=for-the-badge)
+![Checklist](https://img.shields.io/badge/-Checklists-00AA00?style=for-the-badge)
+![Agile](https://img.shields.io/badge/-Agile-0096D6?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-0096D6?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/-Kanban-0096D6?style=for-the-badge&logo=kanban&logoColor=white)
+![SDLC](https://img.shields.io/badge/-SDLC-2496ED?style=for-the-badge)
+![STLC](https://img.shields.io/badge/-STLC-2496ED?style=for-the-badge)
 
 
 

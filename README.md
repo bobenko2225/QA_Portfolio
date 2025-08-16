@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="assets/images/header.png" alt="QA Portfolio Header" width="80%">
-</div>
+![Header](https://github.com/bobenko2225/QA_Portfolio/blob/main/assets/images/header.png?raw=true)
 
 # QA_Portfolio
 

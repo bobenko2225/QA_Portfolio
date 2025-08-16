@@ -34,9 +34,9 @@
   - Використання емуляторів
  
 ## 📝 Практичні роботи 
-1.[ Створити чек-лист на будь який обраний вами сайт] (https://docs.google.com/spreadsheets/d/1nwb-snFBUdJWye21h-Pvxv9Z3xfDWMZZhO1LM8vL1AM/edit?usp=sharing)
-2.[ сформувати 5 баг репортів, знайдених на сайті] (https://docs.google.com/spreadsheets/d/139fJ1XUNU5FE3lneYSF4oEnlT8NzgRrwQjulIUmsMg8/edit?usp=sharing)
-3.[ Написати приклади перевірок для кожного виду тестування для обраного сайту] (https://docs.google.com/document/d/1CXrJ7u6I1AcxUf4U9tg96pG-l--06OzkTAlk43HfZwI/edit?usp=sharing)
+- **[ Створити чек-лист на будь який обраний вами сайт] (https://docs.google.com/spreadsheets/d/1nwb-snFBUdJWye21h-Pvxv9Z3xfDWMZZhO1LM8vL1AM/edit?usp=sharing)
+- **[ сформувати 5 баг репортів, знайдених на сайті] (https://docs.google.com/spreadsheets/d/139fJ1XUNU5FE3lneYSF4oEnlT8NzgRrwQjulIUmsMg8/edit?usp=sharing)
+- **[ Написати приклади перевірок для кожного виду тестування для обраного сайту] (https://docs.google.com/document/d/1CXrJ7u6I1AcxUf4U9tg96pG-l--06OzkTAlk43HfZwI/edit?usp=sharing)
 4.[ Застосувати всі блек-бокс техніки до якоїсь фічі в обраному вами сайті] (https://docs.google.com/document/d/1fkRWD7xNCnFNR4UbROShG8uHxeLgemuVhkWYQP-TR5Q/edit?usp=sharing)
 5.[ Створити декілька багів у Jira] (https://docs.google.com/document/d/1dC-9JREDZ5I7YXKFYlxIwpZIB0A5qS3VRi7uHUdUh3M/edit?usp=sharing)
 6.[ написати тест кейси для тестування АПІ + протестувати на тестовому АПІ] (https://docs.google.com/document/d/1rsRfYm4Q7EuPX3NHsQ980dZp2N-5QKadXLfmo-1rJhU/edit?usp=sharing)

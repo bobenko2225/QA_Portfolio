@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/images/header.png" alt="QA Portfolio Header" width="80%">
+</div>
+
 # QA_Portfolio
 
 # Manual QA Portfolio – Nazar Kozar

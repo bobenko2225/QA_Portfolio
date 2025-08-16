@@ -67,31 +67,24 @@
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 ![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-FF6C37?style=flat&logo=testrail&logoColor=white)
-![API Testing](https://img.shields.io/badge/-API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Mobile Testing](https://img.shields.io/badge/-Mobile%20Testing-3DDC84?style=flat&logo=android&logoColor=white)
 
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/-TestRail-65C179?style=flat&logo=&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ![DevTools](https://img.shields.io/badge/-DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white)
 ![Charles Proxy](https://img.shields.io/badge/-Charles%20Proxy-8CC4D7?style=flat&logo=&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-FF6C37?style=for-the-badge&logo=testrail&logoColor=white)
-![API Testing](https://img.shields.io/badge/-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Performance Testing](https://img.shields.io/badge/-Performance%20Testing-000000?style=for-the-badge&logo=jmeter&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![TestRail](https://img.shields.io/badge/-TestRail-65C179?style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitBash](https://img.shields.io/badge/-Git%20Bash-4EAA25?style=for-the-badge&logo=git&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)

@@ -1,6 +1,6 @@
 # QA_Portfolio
 
-# Manual QA Portfolio – Nazar Kozar
+# Manual QA Engineer – Nazar Kozar
 
 ## Про мене
 Привіт! Я Manual QA Engineer, який пройшов комплексний курс тестування ПЗ.  
@@ -56,6 +56,7 @@
  ,Написати API test in Postman (https://docs.google.com/document/d/1sw9wNisyRFEMxmeyb45xvbqzXquIivPXjhfSrkIuhIU/edit?usp=sharing)
 - *[ Робота з командним рядком "термінал"] (https://docs.google.com/document/d/1cMB_FzTM8NJN9gMzswz6C853VatABe6YjA671qZkTTI/edit?usp=sharing)   
 - *[ System Bug report of Genius Space] (https://docs.google.com/document/d/1iZpOunVgZX6DIjUvfYaofUDwNMCD45u6DjYqGzmC7ao/edit?usp=sharing)
+- *[Check-list of the website example] (https://docs.google.com/document/d/1sHRPs01wbmVcx6iJ2L6lSl1zfs15ODITRbBTE8pVPGo/edit?usp=sharing)
 - *[ Checklist site https://www.adidas.ua] (https://docs.google.com/spreadsheets/d/1-c8Jq7BcUx22iMRT6-e3vayM2L44k9CY3FE1qrzp_zs/edit?usp=sharing)
 - *[JSON Formatter; JSON to XML] (https://docs.google.com/document/d/1N8YZF2uHmiSoHmku88_CeZ5Cfjf3VaWULzwZfYKpOQ0/edit?usp=sharing)
 

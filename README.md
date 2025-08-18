@@ -45,16 +45,11 @@
 - *[Створення та базові запити SQL](https://docs.google.com/document/d/1HNnJO-nV-ZRfFZQTBQWjqaI403gj_-4_Lwpk2MXwXXY/edit?usp=sharing)
 - *[ написати тест кейси для тестування API + протестувати на тестовому API](https://docs.google.com/document/d/1rsRfYm4Q7EuPX3NHsQ980dZp2N-5QKadXLfmo-1rJhU/edit?usp=sharing)
 - *[ протестувати веб додаток з інструментами + зарепортити баги Devtools Charles](https://docs.google.com/document/d/1Q9MZXp6HeHpXpas3_aHOonwrkSdKJb7jVomOaYG9cnQ/edit?usp=sharing)
-- *[ -Клонувати проект з GitHub
-,Cтворити гілку, зробити зміни, зробити коміт
-,Зробити мерж реквест на гілку мастер](https://docs.google.com/document/d/1-UpiOno_AatQXJq7TMbscr8xgWEnrROUUdIMcc_IexQ/edit?usp=sharing)
+- *[ -Клонувати проект з GitHub ,Cтворити гілку, зробити зміни, зробити коміт ,Зробити мерж реквест на гілку мастер](https://docs.google.com/document/d/1-UpiOno_AatQXJq7TMbscr8xgWEnrROUUdIMcc_IexQ/edit?usp=sharing)
 - *[ Automation Part 3: Pytest + API Testing](https://docs.google.com/document/d/1yp2bSRQZThtJtmDrr8bPA3TfrAnecfaxJoCVzi0Gl1s/edit?usp=sharing)
 - *[ Автоматизація тестування веб-сторінок](https://docs.google.com/document/d/1cFnQwnpJb_FnUxWnZJBDDqCBnmKjSmqKJYw13wWS_Nw/edit?usp=sharing)
 - *[ Performance Testing з JMeter](https://docs.google.com/document/d/1AlJ6QVqypCPt3zFEWLFy_WaTZ5Gc-mspfGk6uUA3oD0/edit?usp=sharing)
-- *[ Покрити тестами API https://gorest.co.in/
- ,Використати необхідні техніки тест дизайну
- ,Написати тест кейси 
- ,Написати API test in Postman](https://docs.google.com/document/d/1sw9wNisyRFEMxmeyb45xvbqzXquIivPXjhfSrkIuhIU/edit?usp=sharing)
+- *[ Покрити тестами API https://gorest.co.in/ ,Використати необхідні техніки тест дизайну ,Написати тест кейси ,Написати API test in Postman](https://docs.google.com/document/d/1sw9wNisyRFEMxmeyb45xvbqzXquIivPXjhfSrkIuhIU/edit?usp=sharing)
 - *[ Робота з командним рядком "термінал"](https://docs.google.com/document/d/1cMB_FzTM8NJN9gMzswz6C853VatABe6YjA671qZkTTI/edit?usp=sharing)   
 - *[ System Bug report of Genius Space](https://docs.google.com/document/d/1iZpOunVgZX6DIjUvfYaofUDwNMCD45u6DjYqGzmC7ao/edit?usp=sharing)
 - *[Check-list of the website example](https://docs.google.com/document/d/1sHRPs01wbmVcx6iJ2L6lSl1zfs15ODITRbBTE8pVPGo/edit?usp=sharing)

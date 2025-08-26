@@ -9,6 +9,7 @@
 
 📄 MY CV
 Моє резюме доступне за посиланням: [Відкрити CV](https://docs.google.com/document/d/1fH4OIndZ9ucDGzdAcgO0wF_6rlyLqiM5K35Sf7IUk0I/edit?usp=sharing) 
+📄 MY Diplom доступне за посиланням: [Відкрити Diplom](https://docs.google.com/document/d/1VAXE1D4EafhcQqgv3UPqJgRWmTqJ-PnJ35vdICCK0nc/edit?usp=sharing)
 
 ## 📚 Програма курсу
 ### Основні модулі, які я освоїв:

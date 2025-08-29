@@ -1,4 +1,120 @@
+## 🌐 Languages
+[English](#english) | [Українська](#українська)
+
 # QA_Portfolio
+
+
+## English
+
+Manual QA Engineer – Nazar Kozar
+About Me
+Hi! I am a Manual QA Engineer who has completed a comprehensive Software Testing course.
+My skills cover the full testing cycle: from requirement analysis to defect reporting.
+Goal: I am looking for an opportunity to apply my knowledge in practice as a Junior QA Engineer.
+
+📄 MY CV
+My resume is available at: Open CV
+
+📄 MY Diploma
+My diploma is available at: Open Diploma
+
+📚 Course Program
+Key modules I studied:
+Testing Theory
+
+Principles of Testing (ISTQB)
+
+SDLC, STLC, Agile (Scrum/Kanban)
+
+Testing Levels (Unit, Integration, System, Acceptance)
+
+Working with Documentation
+
+Requirements Analysis (User Stories, Use Cases)
+
+Test Artifacts: Test Plan, Test Cases, Checklists
+
+Practice in TestRail
+
+Test Design
+
+Black-box Techniques (ECP, BVA, Decision Table)
+
+Experience-based Techniques (Error Guessing)
+
+Bug Reporting
+
+Defect Life Cycle
+
+Severity vs Priority
+
+Practice in Jira
+
+Technical Skills
+
+API Testing (Postman, Swagger)
+
+SQL (SELECT, JOIN, aggregate functions)
+
+Git (basic commands)
+
+Chrome DevTools, Charles Proxy
+
+Mobile Testing
+
+Features of iOS/Android testing
+
+Using emulators
+
+📝 Practical Work
+Create a checklist for any chosen website
+
+Write 5 bug reports found on a website
+
+Write examples of checks for each type of testing for a chosen website
+
+Apply all black-box techniques to a feature on a chosen website
+
+Create several bugs in Jira
+
+SQL basics and queries
+
+Write API test cases + test on a test API
+
+Test a web application with tools + report bugs (DevTools, Charles)
+
+Clone a project from GitHub, create a branch, make changes, commit, and merge into master
+
+Automation Part 3: Pytest + API Testing
+
+Web page test automation
+
+Performance Testing with JMeter
+
+Cover API https://gorest.co.in/ with tests, apply test design techniques, write test cases, write API tests in Postman
+
+Work with command line "terminal"
+
+System Bug Report of Genius Space
+
+Check-list of the website example
+
+Checklist for https://www.adidas.ua
+
+JSON Formatter; JSON to XML
+
+📌 Contacts
+LinkedIn: https://www.linkedin.com/in/nazar-kozar-2014b2375/
+
+Email: bobenko123456789@gmail.com
+
+Telegram: @naz_naz04
+
+
+
+
+
+## Українська
 
 # Manual QA Engineer – Nazar Kozar
 

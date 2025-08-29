@@ -13,74 +13,57 @@ My skills cover the full testing cycle: from requirement analysis to defect repo
 Goal: I am looking for an opportunity to apply my knowledge in practice as a Junior QA Engineer.
 
 📄 MY CV
-My resume is available at: Open CV
+My resume is available at: [Open CV](https://docs.google.com/document/d/1fH4OIndZ9ucDGzdAcgO0wF_6rlyLqiM5K35Sf7IUk0I/edit?usp=sharing) 
 
 📄 MY Diploma
-My diploma is available at: Open Diploma
+My diploma is available at: [Open Diploma](https://docs.google.com/document/d/1VAXE1D4EafhcQqgv3UPqJgRWmTqJ-PnJ35vdICCK0nc/edit?usp=sharing)
 
 📚 Course Program
 Key modules I studied:
 Testing Theory
 
 - **Principles of Testing (ISTQB)**
-  -SDLC, STLC, Agile (Scrum/Kanban)
-  -Testing Levels (Unit, Integration, System, Acceptance)
-  -Working with Documentation
+ -SDLC, STLC, Agile (Scrum/Kanban)
+ -Testing Levels (Unit, Integration, System, Acceptance)
+ -Working with Documentation
 - **Requirements Analysis (User Stories, Use Cases)**
-  -Test Artifacts: Test Plan, Test Cases, Checklists
-  -Practice in TestRail
+ -Test Artifacts: Test Plan, Test Cases, Checklists
+ -Practice in TestRail
 - **Test Design**
-  -Black-box Techniques (ECP, BVA, Decision Table)
-  -Experience-based Techniques (Error Guessing)
+ -Black-box Techniques (ECP, BVA, Decision Table)
+ -Experience-based Techniques (Error Guessing)
 - **Bug Reporting**
-  -Defect Life Cycle
-  -Severity vs Priority
-  -Practice in Jira
+ -Defect Life Cycle
+ -Severity vs Priority
+ -Practice in Jira
 - **Technical Skills**
-  -API Testing (Postman, Swagger)
-  -SQL (SELECT, JOIN, aggregate functions)
-  -Git (basic commands)
-  -Chrome DevTools, Charles Proxy
+ -API Testing (Postman, Swagger)
+ -SQL (SELECT, JOIN, aggregate functions)
+ -Git (basic commands)
+ -Chrome DevTools, Charles Proxy
 - **Mobile Testing**
-  -Features of iOS/Android testing
-  -Using emulators
+ -Features of iOS/Android testing
+ -Using emulators
 
 📝 Practical Work
-Create a checklist for any chosen website
-
-Write 5 bug reports found on a website
-
-Write examples of checks for each type of testing for a chosen website
-
-Apply all black-box techniques to a feature on a chosen website
-
-Create several bugs in Jira
-
-SQL basics and queries
-
-Write API test cases + test on a test API
-
-Test a web application with tools + report bugs (DevTools, Charles)
-
-Clone a project from GitHub, create a branch, make changes, commit, and merge into master
-
-Automation Part 3: Pytest + API Testing
-
-Web page test automation
-
-Performance Testing with JMeter
-
-Cover API https://gorest.co.in/ with tests, apply test design techniques, write test cases, write API tests in Postman
-
-Work with command line "terminal"
-
-System Bug Report of Genius Space
-
-Check-list of the website example
-
-Checklist for https://www.adidas.ua
-
-JSON Formatter; JSON to XML
+[Create a checklist for any chosen website](https://docs.google.com/spreadsheets/d/1nwb-snFBUdJWye21h-Pvxv9Z3xfDWMZZhO1LM8vL1AM/edit?usp=sharing)
+[Write 5 bug reports found on a website](https://docs.google.com/spreadsheets/d/139fJ1XUNU5FE3lneYSF4oEnlT8NzgRrwQjulIUmsMg8/edit?usp=sharing)
+[Write examples of checks for each type of testing for a chosen website](https://docs.google.com/document/d/1CXrJ7u6I1AcxUf4U9tg96pG-l--06OzkTAlk43HfZwI/edit?usp=sharing)
+[Apply all black-box techniques to a feature on a chosen website](https://docs.google.com/document/d/1fkRWD7xNCnFNR4UbROShG8uHxeLgemuVhkWYQP-TR5Q/edit?usp=sharing)
+[Create several bugs in Jira](https://docs.google.com/document/d/1dC-9JREDZ5I7YXKFYlxIwpZIB0A5qS3VRi7uHUdUh3M/edit?usp=sharing)
+[SQL basics and queries](https://docs.google.com/document/d/1HNnJO-nV-ZRfFZQTBQWjqaI403gj_-4_Lwpk2MXwXXY/edit?usp=sharing)
+[Write API test cases + test on a test API](https://docs.google.com/document/d/1rsRfYm4Q7EuPX3NHsQ980dZp2N-5QKadXLfmo-1rJhU/edit?usp=sharing)
+[Test a web application with tools + report bugs (DevTools, Charles)](https://docs.google.com/document/d/1Q9MZXp6HeHpXpas3_aHOonwrkSdKJb7jVomOaYG9cnQ/edit?usp=sharing)
+[Clone a project from GitHub, create a branch, make changes, commit, and merge into master](https://docs.google.com/document/d/1-UpiOno_AatQXJq7TMbscr8xgWEnrROUUdIMcc_IexQ/edit?usp=sharing)
+[Automation Part 3: Pytest + API Testing](https://docs.google.com/document/d/1yp2bSRQZThtJtmDrr8bPA3TfrAnecfaxJoCVzi0Gl1s/edit?usp=sharing)
+[Web page test automation](https://docs.google.com/document/d/1cFnQwnpJb_FnUxWnZJBDDqCBnmKjSmqKJYw13wWS_Nw/edit?usp=sharing)
+[Performance Testing with JMeter](https://docs.google.com/document/d/1AlJ6QVqypCPt3zFEWLFy_WaTZ5Gc-mspfGk6uUA3oD0/edit?usp=sharing)
+[Cover API https://gorest.co.in/ with tests, apply test design techniques, write test cases, write API tests in Postman](https://docs.google.com/document/d/1sw9wNisyRFEMxmeyb45xvbqzXquIivPXjhfSrkIuhIU/edit?usp=sharing)
+[Work with command line "terminal"](https://docs.google.com/document/d/1cMB_FzTM8NJN9gMzswz6C853VatABe6YjA671qZkTTI/edit?usp=sharing)
+[System Bug Report of Genius Space](https://docs.google.com/document/d/1iZpOunVgZX6DIjUvfYaofUDwNMCD45u6DjYqGzmC7ao/edit?usp=sharing)
+[Check-list of the website example](https://docs.google.com/document/d/1sHRPs01wbmVcx6iJ2L6lSl1zfs15ODITRbBTE8pVPGo/edit?usp=sharing)
+[Checklist for https://www.adidas.ua](https://docs.google.com/spreadsheets/d/1-c8Jq7BcUx22iMRT6-e3vayM2L44k9CY3FE1qrzp_zs/edit?usp=sharing)
+[JSON Formatter; JSON to XML](https://docs.google.com/document/d/1N8YZF2uHmiSoHmku88_CeZ5Cfjf3VaWULzwZfYKpOQ0/edit?usp=sharing)
 
 📌 Contacts
 LinkedIn: https://www.linkedin.com/in/nazar-kozar-2014b2375/

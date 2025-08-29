@@ -7,10 +7,10 @@
 ## English
 
 Manual QA Engineer – Nazar Kozar
-##About Me
+## About Me
 Hi! I am a Manual QA Engineer who has completed a comprehensive Software Testing course.
 My skills cover the full testing cycle: from requirement analysis to defect reporting.
-##Goal:## I am looking for an opportunity to apply my knowledge in practice as a Junior QA Engineer.
+**Goal:** I am looking for an opportunity to apply my knowledge in practice as a Junior QA Engineer.
 
 📄 MY CV
 My resume is available at: [Open CV](https://docs.google.com/document/d/1fH4OIndZ9ucDGzdAcgO0wF_6rlyLqiM5K35Sf7IUk0I/edit?usp=sharing) 

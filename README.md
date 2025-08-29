@@ -7,7 +7,7 @@
 ## English
 
 Manual QA Engineer – Nazar Kozar
-About Me
+#About Me
 Hi! I am a Manual QA Engineer who has completed a comprehensive Software Testing course.
 My skills cover the full testing cycle: from requirement analysis to defect reporting.
 Goal: I am looking for an opportunity to apply my knowledge in practice as a Junior QA Engineer.
@@ -64,6 +64,16 @@ Testing Theory
 - *[Check-list of the website example](https://docs.google.com/document/d/1sHRPs01wbmVcx6iJ2L6lSl1zfs15ODITRbBTE8pVPGo/edit?usp=sharing)
 - *[Checklist for https://www.adidas.ua](https://docs.google.com/spreadsheets/d/1-c8Jq7BcUx22iMRT6-e3vayM2L44k9CY3FE1qrzp_zs/edit?usp=sharing)
 - *[JSON Formatter; JSON to XML](https://docs.google.com/document/d/1N8YZF2uHmiSoHmku88_CeZ5Cfjf3VaWULzwZfYKpOQ0/edit?usp=sharing)
+
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+
+
 
 📌 Contacts
 LinkedIn: https://www.linkedin.com/in/nazar-kozar-2014b2375/

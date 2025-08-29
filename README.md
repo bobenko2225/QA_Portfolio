@@ -23,11 +23,11 @@ Key modules I studied:
 Testing Theory
 
 - **Principles of Testing (ISTQB)**
- -SDLC, STLC, Agile (Scrum/Kanban)
- -Testing Levels (Unit, Integration, System, Acceptance)
- -Working with Documentation
+ *-SDLC, STLC, Agile (Scrum/Kanban)
+ *-Testing Levels (Unit, Integration, System, Acceptance)
+ *-Working with Documentation
 - **Requirements Analysis (User Stories, Use Cases)**
- -Test Artifacts: Test Plan, Test Cases, Checklists
+ *-Test Artifacts: Test Plan, Test Cases, Checklists
  -Practice in TestRail
 - **Test Design**
  -Black-box Techniques (ECP, BVA, Decision Table)

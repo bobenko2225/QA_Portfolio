@@ -18,8 +18,8 @@ My resume is available at: [Open CV](https://docs.google.com/document/d/1fH4OInd
 📄 MY Diploma
 My diploma is available at: [Open Diploma](https://docs.google.com/document/d/1VAXE1D4EafhcQqgv3UPqJgRWmTqJ-PnJ35vdICCK0nc/edit?usp=sharing)
 
-📚 Course Program
-Key modules I studied:
+## 📚 Course Program
+### Key modules I studied:
 Testing Theory
 
 - **Principles of Testing (ISTQB)**
@@ -45,7 +45,7 @@ Testing Theory
  - * Features of iOS/Android testing
  - * Using emulators
 
-📝 Practical Work
+## 📝 Practical Work
 - *[Create a checklist for any chosen website](https://docs.google.com/spreadsheets/d/1nwb-snFBUdJWye21h-Pvxv9Z3xfDWMZZhO1LM8vL1AM/edit?usp=sharing)
 - *[Write 5 bug reports found on a website](https://docs.google.com/spreadsheets/d/139fJ1XUNU5FE3lneYSF4oEnlT8NzgRrwQjulIUmsMg8/edit?usp=sharing)
 - *[Write examples of checks for each type of testing for a chosen website](https://docs.google.com/document/d/1CXrJ7u6I1AcxUf4U9tg96pG-l--06OzkTAlk43HfZwI/edit?usp=sharing)
@@ -75,7 +75,7 @@ Testing Theory
 
 
 
-📌 Contacts
+## 📌 Contacts
 LinkedIn: https://www.linkedin.com/in/nazar-kozar-2014b2375/
 
 Email: bobenko123456789@gmail.com

@@ -23,27 +23,27 @@ Key modules I studied:
 Testing Theory
 
 - **Principles of Testing (ISTQB)**
- -* SDLC, STLC, Agile (Scrum/Kanban)
- -* Testing Levels (Unit, Integration, System, Acceptance)
- -* Working with Documentation
+ - * SDLC, STLC, Agile (Scrum/Kanban)
+ - * Testing Levels (Unit, Integration, System, Acceptance)
+ - * Working with Documentation
 - **Requirements Analysis (User Stories, Use Cases)**
- -* Test Artifacts: Test Plan, Test Cases, Checklists
- -* Practice in TestRail
+ - * Test Artifacts: Test Plan, Test Cases, Checklists
+ - * Practice in TestRail
 - **Test Design**
- -* Black-box Techniques (ECP, BVA, Decision Table)
- -* Experience-based Techniques (Error Guessing)
+ - * Black-box Techniques (ECP, BVA, Decision Table)
+ - * Experience-based Techniques (Error Guessing)
 - **Bug Reporting**
- -* Defect Life Cycle
- -* Severity vs Priority
- -* Practice in Jira
+ - * Defect Life Cycle
+ - * Severity vs Priority
+ - * Practice in Jira
 - **Technical Skills**
- -* API Testing (Postman, Swagger)
- -* SQL (SELECT, JOIN, aggregate functions)
- -* Git (basic commands)
- -* Chrome DevTools, Charles Proxy
+ - * API Testing (Postman, Swagger)
+ - * SQL (SELECT, JOIN, aggregate functions)
+ - * Git (basic commands)
+ - * Chrome DevTools, Charles Proxy
 - **Mobile Testing**
- -* Features of iOS/Android testing
- -* Using emulators
+ - * Features of iOS/Android testing
+ - * Using emulators
 
 📝 Practical Work
 - *[Create a checklist for any chosen website](https://docs.google.com/spreadsheets/d/1nwb-snFBUdJWye21h-Pvxv9Z3xfDWMZZhO1LM8vL1AM/edit?usp=sharing)

@@ -86,6 +86,9 @@ Telegram: @naz_naz04
 
 
 
+
+
+
 ## Українська
 
 # Manual QA Engineer – Nazar Kozar

@@ -46,7 +46,7 @@ Testing Theory
  - * Using emulators
 
 ## 📝 Practical Work
-- *[Create a checklist for any chosen website](https://docs.google.com/spreadsheets/d/1nwb-snFBUdJWye21h-Pvxv9Z3xfDWMZZhO1LM8vL1AM/edit?usp=sharing)
+- *[Create a checklist for any chosen website](https://docs.google.com/spreadsheets/d/1zVfdFhl3OmB_d0PZnol8p9jYu-zbMFBW4PRjPz3ZBrA/edit?usp=sharing)
 - *[Write 5 bug reports found on a website](https://docs.google.com/spreadsheets/d/139fJ1XUNU5FE3lneYSF4oEnlT8NzgRrwQjulIUmsMg8/edit?usp=sharing)
 - *[Write examples of checks for each type of testing for a chosen website](https://docs.google.com/document/d/1CXrJ7u6I1AcxUf4U9tg96pG-l--06OzkTAlk43HfZwI/edit?usp=sharing)
 - *[Apply all black-box techniques to a feature on a chosen website](https://docs.google.com/document/d/1fkRWD7xNCnFNR4UbROShG8uHxeLgemuVhkWYQP-TR5Q/edit?usp=sharing)

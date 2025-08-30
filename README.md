@@ -47,7 +47,7 @@ Testing Theory
 
 ## 📝 Practical Work
 - *[Create a checklist for any chosen website](https://docs.google.com/spreadsheets/d/1zVfdFhl3OmB_d0PZnol8p9jYu-zbMFBW4PRjPz3ZBrA/edit?usp=sharing)
-- *[Write 5 bug reports found on a website](https://docs.google.com/spreadsheets/d/139fJ1XUNU5FE3lneYSF4oEnlT8NzgRrwQjulIUmsMg8/edit?usp=sharing)
+- *[Write 5 bug reports found on a website](https://docs.google.com/spreadsheets/d/14YTW_lHVJ-xPFAMNhsTyc6MXggGJVuxO58kII8IuLbA/edit?usp=sharing)
 - *[Write examples of checks for each type of testing for a chosen website](https://docs.google.com/document/d/1CXrJ7u6I1AcxUf4U9tg96pG-l--06OzkTAlk43HfZwI/edit?usp=sharing)
 - *[Apply all black-box techniques to a feature on a chosen website](https://docs.google.com/document/d/1fkRWD7xNCnFNR4UbROShG8uHxeLgemuVhkWYQP-TR5Q/edit?usp=sharing)
 - *[Create several bugs in Jira](https://docs.google.com/document/d/1dC-9JREDZ5I7YXKFYlxIwpZIB0A5qS3VRi7uHUdUh3M/edit?usp=sharing)

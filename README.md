@@ -51,6 +51,7 @@ Testing Theory
 - *[Write examples of checks for each type of testing for a chosen website](https://docs.google.com/document/d/1pdWA6qrF-9Tp7NqscfDnTanxqF2-Bi3Olu6psJXlELA/edit?usp=sharing)
 - *[Apply all black-box techniques to a feature on a chosen website](https://docs.google.com/document/d/1bYbIeHtm-iebGv6jicg5DDkz-86oMFeAJ6BWu9VRtkA/edit?usp=sharing)
 - *[Create several bugs in Jira](https://docs.google.com/document/d/1dC-9JREDZ5I7YXKFYlxIwpZIB0A5qS3VRi7uHUdUh3M/edit?usp=sharing)
+- *[Test Suite ](https://docs.google.com/document/d/1_SkORirf_wnlRZBvR_VDe47gCD7WLkuzKrHOhSaIsNU/edit?usp=sharing)
 - *[SQL basics and queries](https://docs.google.com/document/d/1HNnJO-nV-ZRfFZQTBQWjqaI403gj_-4_Lwpk2MXwXXY/edit?usp=sharing)
 - *[Write API test cases + test on a test API](https://docs.google.com/document/d/1rsRfYm4Q7EuPX3NHsQ980dZp2N-5QKadXLfmo-1rJhU/edit?usp=sharing)
 - *[Test a web application with tools + report bugs (DevTools, Charles)](https://docs.google.com/document/d/1Q9MZXp6HeHpXpas3_aHOonwrkSdKJb7jVomOaYG9cnQ/edit?usp=sharing)

@@ -136,6 +136,7 @@ Telegram: @naz_naz04
 - *[ Написати приклади перевірок для кожного виду тестування для обраного сайту](https://docs.google.com/document/d/1CXrJ7u6I1AcxUf4U9tg96pG-l--06OzkTAlk43HfZwI/edit?usp=sharing)
 - *[ Застосувати всі блек-бокс техніки до якоїсь фічі в обраному вами сайті](https://docs.google.com/document/d/1fkRWD7xNCnFNR4UbROShG8uHxeLgemuVhkWYQP-TR5Q/edit?usp=sharing)
 - *[ Створити декілька багів у Jira](https://docs.google.com/document/d/1dC-9JREDZ5I7YXKFYlxIwpZIB0A5qS3VRi7uHUdUh3M/edit?usp=sharing)
+- *[Test Suite](https://docs.google.com/document/d/1_SkORirf_wnlRZBvR_VDe47gCD7WLkuzKrHOhSaIsNU/edit?usp=sharing)
 - *[Створення та базові запити SQL](https://docs.google.com/document/d/1HNnJO-nV-ZRfFZQTBQWjqaI403gj_-4_Lwpk2MXwXXY/edit?usp=sharing)
 - *[ написати тест кейси для тестування API + протестувати на тестовому API](https://docs.google.com/document/d/1rsRfYm4Q7EuPX3NHsQ980dZp2N-5QKadXLfmo-1rJhU/edit?usp=sharing)
 - *[ протестувати веб додаток з інструментами + зарепортити баги Devtools Charles](https://docs.google.com/document/d/1Q9MZXp6HeHpXpas3_aHOonwrkSdKJb7jVomOaYG9cnQ/edit?usp=sharing)

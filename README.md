@@ -18,6 +18,8 @@ My resume is available at: [Open CV](https://docs.google.com/document/d/1fH4OInd
 📄 MY Diploma
 My diploma is available at: [Open Diploma](https://docs.google.com/document/d/1VAXE1D4EafhcQqgv3UPqJgRWmTqJ-PnJ35vdICCK0nc/edit?usp=sharing)
 
+📄 MY Email:(bobenko123456789@gmail.com)
+
 ## 📚 Course Program
 ### Key modules I studied:
 Testing Theory

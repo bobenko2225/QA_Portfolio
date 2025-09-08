@@ -18,7 +18,7 @@ My resume is available at: [Open CV](https://docs.google.com/document/d/1fH4OInd
 📄 MY Diploma
 My diploma is available at: [Open Diploma](https://docs.google.com/document/d/1VAXE1D4EafhcQqgv3UPqJgRWmTqJ-PnJ35vdICCK0nc/edit?usp=sharing)
 
-📄 MY Email:(bobenko123456789@gmail.com)
+📄 MY Email: bobenko123456789@gmail.com
 
 ## 📚 Course Program
 ### Key modules I studied:
@@ -108,6 +108,8 @@ Telegram: @naz_naz04
 Моє резюме доступне за посиланням: [Відкрити CV](https://docs.google.com/document/d/1fH4OIndZ9ucDGzdAcgO0wF_6rlyLqiM5K35Sf7IUk0I/edit?usp=sharing) 
  
 📄 MY Diplom Мій диплом доступний за посиланням: [Відкрити Diplom](https://docs.google.com/document/d/1VAXE1D4EafhcQqgv3UPqJgRWmTqJ-PnJ35vdICCK0nc/edit?usp=sharing)
+
+📄 MY Email: bobenko123456789@gmail.com
 
 ## 📚 Програма курсу
 ### Основні модулі, які я освоїв:

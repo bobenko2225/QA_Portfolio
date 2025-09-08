@@ -68,7 +68,7 @@ Testing Theory
 - *[JSON Formatter; JSON to XML](https://docs.google.com/document/d/1N8YZF2uHmiSoHmku88_CeZ5Cfjf3VaWULzwZfYKpOQ0/edit?usp=sharing)
 - *[Project Test #Mini Test Plan (Checklist) API Postman](https://docs.google.com/document/d/11Ej9BkSNkkR4x0pRBxwprGv68Rq-iGh2Tdv9Dh9KQS8/edit?usp=sharing)
 - *[Test Task from junior QA ](https://docs.google.com/document/d/1_htFmUhj7DYfzo_7SrFMSKivi_NnEyeYRLLAWJ2dULI/edit?usp=sharing)
-
+- *[OrangeHRM – Test Assignment](https://docs.google.com/document/d/1aKvLdfPg9B_GQIaVF-_h3XtP3qjjTJJJa21DBAcH7kI/edit?usp=sharing)
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -156,6 +156,9 @@ Telegram: @naz_naz04
 - *[JSON Formatter; JSON to XML](https://docs.google.com/document/d/1N8YZF2uHmiSoHmku88_CeZ5Cfjf3VaWULzwZfYKpOQ0/edit?usp=sharing)
 - *[Project Test #Mini Test Plan (Checklist) API Postman](https://docs.google.com/document/d/11Ej9BkSNkkR4x0pRBxwprGv68Rq-iGh2Tdv9Dh9KQS8/edit?usp=sharing)
 - *[Test Task from junior QA ](https://docs.google.com/document/d/1_htFmUhj7DYfzo_7SrFMSKivi_NnEyeYRLLAWJ2dULI/edit?usp=sharing)
+- *[OrangeHRM – Test Assignment](https://docs.google.com/document/d/1aKvLdfPg9B_GQIaVF-_h3XtP3qjjTJJJa21DBAcH7kI/edit?usp=sharing)
+
+
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)

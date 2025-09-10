@@ -41,7 +41,6 @@ Testing Theory
 - **Technical Skills**
  - * API Testing (Postman, Swagger)
  - * SQL (SELECT, JOIN, aggregate functions)
- - * CI/CD:  GitHub
  - * Git (basic commands)
  - * Chrome DevTools, Charles Proxy
 - **Mobile Testing**
@@ -133,7 +132,6 @@ Telegram: @naz_naz04
 - **Технічні навички**
   - API тестування (Postman, Swagger)
   - SQL (SELECT, JOIN, агрегатні функції)
-  - CI/CD:  GitHub
   - Git (основні команди)
   - Chrome DevTools, Charles Proxy
 - **Мобільне тестування**

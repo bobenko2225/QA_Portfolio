@@ -71,7 +71,7 @@ Testing Theory
 - *[Test Task from junior QA ](https://docs.google.com/document/d/1_htFmUhj7DYfzo_7SrFMSKivi_NnEyeYRLLAWJ2dULI/edit?usp=sharing)
 - *[OrangeHRM – Test Assignment](https://docs.google.com/document/d/1aKvLdfPg9B_GQIaVF-_h3XtP3qjjTJJJa21DBAcH7kI/edit?usp=sharing)
 - *[Test Register account ](https://docs.google.com/document/d/1M8oYkYtidboTG0wZaKN7sbTN5-16Po1Ua1qMdi1qWUI/edit?usp=sharing)
-
+- *[BUG-Reports Win-Win trevel demo](https://docs.google.com/document/d/13ABfJaVyAQkyuUnyruE7gATjGKjqMs4UcMmE-iCVutI/edit?usp=sharing)
   
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -162,7 +162,7 @@ Telegram: @naz_naz04
 - *[Test Task from junior QA ](https://docs.google.com/document/d/1_htFmUhj7DYfzo_7SrFMSKivi_NnEyeYRLLAWJ2dULI/edit?usp=sharing)
 - *[OrangeHRM – Test Assignment](https://docs.google.com/document/d/1aKvLdfPg9B_GQIaVF-_h3XtP3qjjTJJJa21DBAcH7kI/edit?usp=sharing)
 - *[Test Register account ](https://docs.google.com/document/d/1M8oYkYtidboTG0wZaKN7sbTN5-16Po1Ua1qMdi1qWUI/edit?usp=sharing)
-
+- *[BUG-Reports Win-Win trevel demo](https://docs.google.com/document/d/13ABfJaVyAQkyuUnyruE7gATjGKjqMs4UcMmE-iCVutI/edit?usp=sharing)
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
